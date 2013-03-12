@@ -1,0 +1,16 @@
+.cont1 {
+	background-color: lightblue;
+}
+.cont2 {
+	background-color: green;
+}
+.header {
+	height: 100px;
+	background-color: green;
+}
+.page-header {
+	border-bottom: none;
+}
+#tb_right {
+	border-right: none;
+}

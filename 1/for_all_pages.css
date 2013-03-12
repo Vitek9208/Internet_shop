@@ -1,0 +1,26 @@
+.contacts {
+	width: 1200px;
+}
+#contact {
+	text-align: right;
+}
+.navigation_menu{
+	text-align: center;
+}
+.gorizontal_navigation {
+	width: 1200px;
+	margin: 0 auto;
+	height: 50px;
+}
+#gorizontal_navigation {
+	text-align: center;
+	width: 400px;
+}
+#footer {
+	width: 1200px;
+	text-align: center;
+	position: relative;
+	margin-top: -1px; /* отрицательное значение высоты футера */
+	height: 20px;
+	clear:both;
+}

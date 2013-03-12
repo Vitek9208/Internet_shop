@@ -1,0 +1,62 @@
+td {
+	 padding-top: 10px;
+	 color: black;
+}
+p {
+	color: black;
+	font-family: 'Warnock Pro','Goudy Old Style',Palatino,'Book Antiqua',Georgia,serif;
+}
+a {
+	color: 8470FF;
+	text-decoration: none;
+}
+a: visited {
+	color: black;
+}
+a: hover {
+	color: FF7F00;
+}
+.container {
+	width: 1200px;
+	margin:0 auto;
+	overflow: hidden;
+	background-image: url('http://odvesti.com/wp-content/uploads/2013/02/tsekhmister.jpg');
+	background-position: center;
+	height: 100%;
+}
+.header {
+	height: 100px;
+	width:100%;
+	padding-bottom: 0px;
+	font-family:'Helvetica Neue',Arial,Helvetica,sans-serif;
+}
+.bokovoe_menu {
+	height: 100%;
+	width: 200px; 
+	float: left;
+	border-radius: 10px;
+	padding-right: 10px;
+	font-family:'Helvetica Neue',Arial,Helvetica,sans-serif;
+	background-color: rgb(191, 191, 191);
+}
+.content {
+	width: 720px;
+	float: left;
+	padding-left: 10px;
+	height: 100%;
+	border-radius: 10px;
+	padding-top: 10px;
+}
+.podval {
+
+}
+.menu {
+	text-align: center;
+}
+.registration {
+	border-radius: 10px;
+	padding-left: 20px;
+	background-color: rgb(191, 191, 191);
+	width: 200px;
+	float: right;
+}
